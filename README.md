@@ -49,11 +49,11 @@ For questions or support, please contact us at:
 
 ## Privacy Policy
 
-View our privacy policy: [Privacy Policy](PRIVACY.md)
+View our privacy policy: [Privacy Policy](https://github.com/valivalivali/Deduction-Tracker/blob/main/PRIVACY.md)
 
 ## Terms of Service
 
-View our terms of service: [Terms of Service](TERMS.md)
+View our terms of service: [Terms of Service](https://github.com/valivalivali/Deduction-Tracker/blob/main/TERMS.md)
 
 ## Disclaimer
 
